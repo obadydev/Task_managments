@@ -1,4 +1,4 @@
-# Educational Code lab Example: C++ Task Manager
+# Educational Code lab Projects: C++ Task Manager
 # This project was developed by Abdulraqeeb Talal Al-Ghowri
 ## Overview
 This repository contains an educational C++ project designed under the guidelines of Sana'a University  It features a Task Manager application demonstrating fundamental programming concepts in C++ 
