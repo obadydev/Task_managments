@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1710688968 source:c:\users\vitamin\desktop\assigments\main.cpp
+	"Task.h"
+	<iostream>
+
+1710703394 c:\users\vitamin\desktop\assigments\include\task.h
+	<string>
+	<vector>
+	<iostream>
+
+1710703394 source:c:\users\vitamin\desktop\assigments\src\task.cpp
+	"Task.h"
+
